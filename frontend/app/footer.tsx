@@ -13,7 +13,7 @@ export default function Footer() {
                 <div className="text-center font-medium">
                     POS System Built by
                     <a href="https://www.rtstudio.tech" target="_blank" className="text-[#CAAA98] font-bold hover:text-white transition-colors ml-1">
-                        RtStudio Tech
+                        RtStudio Tech.
                     </a>
                 </div>
                 <div className="flex items-center gap-4">
